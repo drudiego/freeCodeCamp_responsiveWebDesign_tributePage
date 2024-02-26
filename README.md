@@ -1,6 +1,6 @@
-# Challenge #1 - Build a Survey Form
+# Challenge #2 - Build a Tribute Pagem
 
-<p> This is Challenge #1 out of 5 from the Responsive Web Design course at freeCodeCamp.</p>
+<p> This is Challenge #2 out of 5 from the Responsive Web Design course at freeCodeCamp.</p>
 
 ## Challenge instructions:
 

@@ -1,0 +1,64 @@
+body {
+    background-color: black;
+    font-family: 'Vollkorn', serif;
+    color: white;
+    text-align: center;
+}
+
+#title-div {
+    text-align: center;
+}
+
+h1 {
+    font-size: 4rem;
+}
+
+h2 {
+    text-align: center;
+}
+
+#img-div {
+    text-align: center;
+    background-color: rgb(17, 17, 17);
+    margin: 20px;
+    padding: 30px;
+    border-radius: 10px;
+
+}
+
+#image {
+    display: block;
+    max-width: 100%;
+    height: auto;
+    object-fit: cover;
+    margin: 0 auto 50px auto;
+}
+
+ul {
+    max-width: 550px;
+    text-align: left;
+    margin: 0 auto 50px auto;
+}
+
+li {
+    line-height: 1.5;
+    margin-top: 0.5em;
+
+}
+
+.year {
+    font-weight: bold;
+}
+
+#quote {
+    font-size: 1.1em;
+    font-style: italic;
+    text-align: left;
+    max-width: 545px;
+    margin: 0 auto 50px auto;
+}
+
+.footer {
+    text-align: center;
+    font-size: 1.2em;
+}
